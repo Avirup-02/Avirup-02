@@ -10,10 +10,10 @@
 
 <!-- Social Icons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-url">
+  <a href="https://www.linkedin.com/in/avirup-banerjee3233">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/Avirup-02">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge" alt="GitHub"/>
   </a>
   <a href="mailto:bavirup2004@gmail.com">
